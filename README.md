@@ -10,4 +10,4 @@
 前端：使用云托管部署网站
 
 #作品体验：
-https://gx-blog-0gi0uuch5ec91f45-1304798587.tcloudbaseapp.com/vuepress/
+https://gx-blog-0gi0uuch5ec91f45-1304798587.tcloudbaseapp.com
